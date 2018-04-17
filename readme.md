@@ -7,4 +7,4 @@
 
 
 ## Keras
-- [1-quickStart](keras/1-quickstart.py)
+- [1-quickStart](keras/1-quickstart.py) - 多层感知机的softmax神经网络搭建

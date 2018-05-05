@@ -85,7 +85,6 @@ def censusSoftMax():
     import keras
 
     # Generate dummy data
-    import numpy as np
     y_train = keras.utils.to_categorical(y_train, num_classes=2)
     y_test = keras.utils.to_categorical(y_train, num_classes=2)
 
@@ -105,15 +104,15 @@ def censusSoftMax():
                   optimizer=sgd,
                   metrics=['accuracy'])
 
-    model.fit(X_train, y_train,
-              epochs=20,
-              batch_size=128)
+    model.fit(X_train, y_train)
+              # epochs=20,
+              # batch_size=128)
     scores = model.evaluate(X_train, y_train, batch_size=128)
     print('Test loss:', scores[0])
     print('Test accuracy:', scores[1])
 
 
 if __name__=="__main__":
-    model = softmaxOutput()
-    getMiddleLayerOutput(model)
+    model = censusSoftMax()
+    # getMiddleLayerOutput(model)
 

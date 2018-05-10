@@ -8,3 +8,6 @@
 
 ## Keras
 - [1-quickStart](keras/1-quickstart.py) - 多层感知机的softmax神经网络搭建
+
+## 自然语言处理
+- [1.自然语言处理](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/4-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.ipynb)

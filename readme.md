@@ -11,3 +11,7 @@
 
 ## 自然语言处理
 - [1.自然语言处理](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/0-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.ipynb)
+
+
+## 时间序列
+- [0-LSTM预测正弦波时序数据](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/0-lstm%E9%A2%84%E6%B5%8B%E6%97%B6%E5%BA%8F.ipynb)

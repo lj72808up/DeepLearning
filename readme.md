@@ -11,8 +11,8 @@ Deep Learning
 
 Keras
 ----------------
-- [QuickStart](keras/1-quickstart.py) - 多层感知机的softmax神经网络搭建
-
+- [1-First Look at NN](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/1-%20First%20Look%20at%20NN%20.ipynb)  
+- [2-Deep learning gor text and sequences](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/2-Deep%20Learning%20for%20Text%20or%20Sequence.ipynb)
 
 
 

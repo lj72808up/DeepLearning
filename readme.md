@@ -6,7 +6,7 @@ Deep Learning
 - [Convolutional Neural Network](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/3-CNN.ipynb)
 - [ResNet vs Inception network](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/3-ResNet%20vs%20Inception%20Net.ipynb)
 - [Recurrent Neural Networks](https://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/4-Recurrent%20Neural%20Network.ipynb)
-- [word2vec&sample](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/0-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.ipynb)
+- [word2vec](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/0-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.ipynb)
 - [seq2seq](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/4-Seq2Seq.ipynb)
 
 Keras

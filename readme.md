@@ -16,7 +16,14 @@ Keras
 
 NLP
 -------------------
-* [LDA gibbs采样实现](https://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/LDA/1-LDA%E7%9A%84Gibbs%E9%87%87%E6%A0%B7%E5%AE%9E%E7%8E%B0.ipynb)
+* **HMM模型**
+
+    * [1-HMM模型]()  
+    * [2-HMM观测序列概率,模型参数估计,状态序列估计]()
+
+* **LDA**
+
+    * [LDA gibbs采样实现](https://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/LDA/1-LDA%E7%9A%84Gibbs%E9%87%87%E6%A0%B7%E5%AE%9E%E7%8E%B0.ipynb)
 
 ## 时间序列
 - [LSTM预测正弦波时序数据](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/0-lstm%E9%A2%84%E6%B5%8B%E6%97%B6%E5%BA%8F.ipynb)

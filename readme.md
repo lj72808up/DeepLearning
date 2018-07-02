@@ -18,8 +18,8 @@ NLP
 -------------------
 * **HMM模型**
 
-    * [1-HMM模型]()  
-    * [2-HMM观测序列概率,模型参数估计,状态序列估计]()
+    * [1-HMM模型](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/1-HMM%E6%A8%A1%E5%9E%8B.ipynb)  
+    * [2-HMM观测序列概率,模型参数估计,状态序列估计](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/1-HMM%E8%A7%82%E6%B5%8B%E5%BA%8F%E5%88%97%E6%A6%82%E7%8E%87%2C%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1%2C%E7%8A%B6%E6%80%81%E5%BA%8F%E5%88%97%E4%BC%B0%E8%AE%A1.ipynb)
 
 * **LDA**
 

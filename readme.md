@@ -12,7 +12,11 @@ Deep Learning
 Keras
 ----------------
 - [1-First Look at NN](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/1-%20First%20Look%20at%20NN%20.ipynb)  
-- [2-Deep learning gor text and sequences](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/2-Deep%20Learning%20for%20Text%20or%20Sequence.ipynb)
+- [2.1-keras中的one-hot与word-embedding](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/2.1-keras%E4%B8%AD%E7%9A%84one-hot%E4%B8%8Eword-embedding.ipynb)  
+- [2.2-keras中的RNN](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/2.2-Keras%E4%B8%AD%E7%9A%84RNN.ipynb)
+- [2.3-keras分析天气序列数据(dropout,fit_generator)](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/2.3-Advanced%20use%20of%20RNN.ipynb)
+- [2.4-1d convnet for nlp]()
+
 
 NLP
 -------------------

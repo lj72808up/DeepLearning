@@ -15,7 +15,11 @@ Keras
 - [2.1-keras中的one-hot与word-embedding](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/2.1-keras%E4%B8%AD%E7%9A%84one-hot%E4%B8%8Eword-embedding.ipynb)  
 - [2.2-keras中的RNN](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/2.2-Keras%E4%B8%AD%E7%9A%84RNN.ipynb)
 - [2.3-keras分析天气序列数据(dropout,fit_generator)](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/DeepLearning%20in%20keras/2.3-Advanced%20use%20of%20RNN.ipynb)
-- [2.4-1d convnet for nlp]()
+- [2.4-1d convnet for nlp](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/02bc1e9a4785523a0f9a92a867167e7529fb128d/blog/DeepLearning%20in%20keras/2.4%201-d%20convnet%20for%20nlp.ipynb)
+- [3-keras函数式](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/02bc1e9a4785523a0f9a92a867167e7529fb128d/blog/DeepLearning%20in%20keras/3-keras%E9%AB%98%E7%BA%A7%E5%8A%9F%E8%83%BD.ipynb)
+- [4-keras callback监控与tensorboard可视化](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/02bc1e9a4785523a0f9a92a867167e7529fb128d/blog/DeepLearning%20in%20keras/4-%E4%BD%BF%E7%94%A8keras%20callback%E5%92%8Ctensorboard%E7%9B%91%E6%8E%A7.ipynb) 
+- [5-RNN文本生成](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/02bc1e9a4785523a0f9a92a867167e7529fb128d/blog/DeepLearning%20in%20keras/5-RNN%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90.ipynb)
+
 
 Tensorflow
 ---------------

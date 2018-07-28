@@ -19,7 +19,7 @@ Keras
 - [3-keras函数式](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/02bc1e9a4785523a0f9a92a867167e7529fb128d/blog/DeepLearning%20in%20keras/3-keras%E9%AB%98%E7%BA%A7%E5%8A%9F%E8%83%BD.ipynb)
 - [4-keras callback监控与tensorboard可视化](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/02bc1e9a4785523a0f9a92a867167e7529fb128d/blog/DeepLearning%20in%20keras/4-%E4%BD%BF%E7%94%A8keras%20callback%E5%92%8Ctensorboard%E7%9B%91%E6%8E%A7.ipynb) 
 - [5-RNN文本生成](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/02bc1e9a4785523a0f9a92a867167e7529fb128d/blog/DeepLearning%20in%20keras/5-RNN%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90.ipynb)
-* [6-中文购物评论情感分析(gensim训练词向量+RNN)](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/901b63cd676a928f46608047912ca2983d1375c7/blog/DeepLearning%20in%20keras/6-%E4%B8%AD%E6%96%87%E8%B4%AD%E7%89%A9%E8%AF%84%E4%BB%B7%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.ipynb)
+- [6-中文购物评论情感分析(gensim训练词向量+RNN)](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/901b63cd676a928f46608047912ca2983d1375c7/blog/DeepLearning%20in%20keras/6-%E4%B8%AD%E6%96%87%E8%B4%AD%E7%89%A9%E8%AF%84%E4%BB%B7%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.ipynb)
 
 
 Tensorflow

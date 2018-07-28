@@ -37,7 +37,7 @@ NLP
 * **LDA**
 
     * [LDA gibbs采样实现](https://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/LDA/1-LDA%E7%9A%84Gibbs%E9%87%87%E6%A0%B7%E5%AE%9E%E7%8E%B0.ipynb)
-    * [gensim进行LDA主题分布模型](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/LDA/3-gensim%E5%AE%9E%E7%8E%B0LDA.ipynb)
+    * [gensim进行LDA主题分布模型(预处理去除停用词,过滤不可见字符,全角转半角处理)](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/LDA/3-gensim%E5%AE%9E%E7%8E%B0LDA.ipynb)
 
 * **Recommand System**
     * [[1-概念篇]](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/901b63cd676a928f46608047912ca2983d1375c7/blog/Recommended%20System/1-%E6%A6%82%E5%BF%B5%E7%AF%87.ipynb)

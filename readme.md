@@ -46,6 +46,10 @@ NLP
     * [2.2 实体识别(HMM与条件随机场)]()
     * [2.3 fasttext文本分类(对比CBOW和skip-gram)](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/901b63cd676a928f46608047912ca2983d1375c7/blog/Recommended%20System/2.3%20-%20fastext%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB.ipynb)
 
+* **3.1 聚类与检索** 
+    * [1-聚类与检索(KNN,TF-IDF,KD-Tree,K-Means,EM](http://nbviewer.jupyter.org/github/lj72808up/ML_Handcraft/blob/master/blog/%E8%81%9A%E7%B1%BB%E4%B8%8E%E6%A3%80%E7%B4%A2/1-%E8%81%9A%E7%B1%BB%E4%B8%8E%E6%A3%80%E7%B4%A2%28KNN%2CTF-IDF%2CKD-Tree%2CK-Means%2CEM%29.ipynb)
+    * [2-LDA与混合关系模型](http://nbviewer.jupyter.org/github/lj72808up/ML_Handcraft/blob/master/blog/%E8%81%9A%E7%B1%BB%E4%B8%8E%E6%A3%80%E7%B4%A2/2-LDA.ipynb)
+    * [3-Hierarchical Clustering](http://nbviewer.jupyter.org/github/lj72808up/ML_Handcraft/blob/174c79b7b0f989818c8edcd63b45512e02f2c87e/blog/%E8%81%9A%E7%B1%BB%E4%B8%8E%E6%A3%80%E7%B4%A2/3-Hierarchical%20Clustering.ipynb)
 
 ## 时间序列
 - [LSTM预测正弦波时序数据](http://nbviewer.jupyter.org/github/lj72808up/DeepLearning/blob/master/blog/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/0-lstm%E9%A2%84%E6%B5%8B%E6%97%B6%E5%BA%8F.ipynb)

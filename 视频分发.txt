@@ -4,3 +4,7 @@
 2. 人工为视频打标签已经不可用. 用户的播放行为才能决定视频的分类
 
 3. 算法分发权重=编辑分发权重 + 社交分发权重 + 各种算法产出权重
+
+https://segmentfault.com/a/1190000015320388
+
+https://blog.csdn.net/linolzhang/article/details/60151623
